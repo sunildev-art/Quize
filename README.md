@@ -1,2 +1,2 @@
-# Quize
-Quize app for freshers to practice 
+# Wallpaper
+Wallpaper app for freshers to practice 
